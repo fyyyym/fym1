@@ -2,7 +2,7 @@
 
 # Weekly Plan(11.21)
 
-1.看完powerbev（Approach部分）
+1.看完powerbev（Approach部分） 已完成
 2.跑通源代码
 
 报错： raise RuntimeError("No rendezvous handler for {}://".format(result.scheme)) RuntimeError: No rendezvous handler for env:/ 已解决
@@ -19,3 +19,5 @@
 报错：BrokenPipeError: [Errno 32] Broken pipe  已解决
 
 报错：RuntimeError: CUDA error: operation not supported when calling `cusparseCreate(handle)`
+
+正在重新安装对应版本cuda
