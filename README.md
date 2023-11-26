@@ -14,7 +14,8 @@
 报错：AttributeError: 'OSError' object has no attribute 'message' 已解决
 
 
-进展：Validation sanity check:   0%|                              | 0/2 [00:00<?, ?it/s]
+进展：Validation sanity check:   0%|                              | 0/2 [00:00<?, ?it/s] 已解决
 
-报错：BrokenPipeError: [Errno 32] Broken pipe
+报错：BrokenPipeError: [Errno 32] Broken pipe  已解决
 
+报错：RuntimeError: CUDA error: operation not supported when calling `cusparseCreate(handle)`
