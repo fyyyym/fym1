@@ -18,6 +18,8 @@
 
 报错：BrokenPipeError: [Errno 32] Broken pipe  已解决
 
-报错：RuntimeError: CUDA error: operation not supported when calling `cusparseCreate(handle)`
+报错：RuntimeError: CUDA error: operation not supported when calling `cusparseCreate(handle)` 已解决 重装网上建议版本cuda
 
-正在重新安装对应版本cuda
+
+报错：torch.cuda.OutOfMemoryError: CUDA out of memory. Tried to allocate 28.00 MiB (GPU 0; 8.00 GiB total capacity; 7.12 GiB already allocated; 0 bytes free; 7.23 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+
