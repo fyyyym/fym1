@@ -1,4 +1,8 @@
 # fym1
 
 # Weekly Plan(12.19)
-1.完成motion部分
+1.完成motio
+
+
+
+训练了50epoche atppnet
