@@ -5,7 +5,7 @@
 
 
 
-训练了50epoche atppnet
+训练了50epoche atppnet   /home/ugvc4090/ATPPNet-ori/atppnet/runs/ATPPNet_20241219_175636
 
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃         Test metric         ┃        DataLoader 0         ┃
