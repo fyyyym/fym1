@@ -26,3 +26,20 @@
 │    test/loss_range_view     │     0.6624512076377869      │
 │ test/mean_chamfer_distance  │     0.7339957356452942      │
 └─────────────────────────────┴─────────────────────────────┘
+又训练了10轮带chamferdistance的 没有达到论文中0.335的要求
+
+│   test/chamfer_distance_0   │     0.2355964034795761      │
+│   test/chamfer_distance_1   │     0.28305986523628235     │
+│   test/chamfer_distance_2   │     0.3481317460536957      │
+│   test/chamfer_distance_3   │     0.41803231835365295     │
+│   test/chamfer_distance_4   │     0.4933539927005768      │
+│ test/final_chamfer_distance │     0.4933539927005768      │
+│     test/inference_time     │     0.04013470560312271     │
+│       test/l1_loss_0        │     0.4967802166938782      │
+│       test/l1_loss_1        │     0.6056380271911621      │
+│       test/l1_loss_2        │     0.7152851819992065      │
+│       test/l1_loss_3        │     0.8206812143325806      │
+│       test/l1_loss_4        │     0.9236515760421753      │
+│       test/loss_mask        │     0.3086422383785248      │
+│    test/loss_range_view     │     0.7124070525169373      │
+│ test/mean_chamfer_distance  │     0.3556349575519562  
