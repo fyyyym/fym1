@@ -43,3 +43,5 @@
 │       test/loss_mask        │     0.3086422383785248      │
 │    test/loss_range_view     │     0.7124070525169373      │
 │ test/mean_chamfer_distance  │     0.3556349575519562  
+
+学习怎么用运动信息
