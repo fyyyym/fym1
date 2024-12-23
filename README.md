@@ -44,4 +44,25 @@
 │    test/loss_range_view     │     0.7124070525169373      │
 │ test/mean_chamfer_distance  │     0.3556349575519562  
 
+再训练10
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃         Test metric         ┃        DataLoader 0         ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│   test/chamfer_distance_0   │     0.22422951459884644     │
+│   test/chamfer_distance_1   │     0.27779147028923035     │
+│   test/chamfer_distance_2   │      0.345889151096344      │
+│   test/chamfer_distance_3   │     0.41676273941993713     │
+│   test/chamfer_distance_4   │     0.4995008707046509      │
+│ test/final_chamfer_distance │     0.4995008707046509      │
+│     test/inference_time     │     0.03369585797190666     │
+│       test/l1_loss_0        │     0.48343712091445923     │
+│       test/l1_loss_1        │     0.5939206480979919      │
+│       test/l1_loss_2        │     0.7016581296920776      │
+│       test/l1_loss_3        │     0.8022783994674683      │
+│       test/l1_loss_4        │     0.8979970216751099      │
+│       test/loss_mask        │     0.3090978264808655      │
+│    test/loss_range_view     │      0.695857584476471      │
+│ test/mean_chamfer_distance  │     0.35283374786376953     │
+└─────────────────────────────┴─────────────────────────────┘
+
 学习怎么用运动信息
