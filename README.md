@@ -7,8 +7,8 @@
 
 训练了50epoche atppnet   /home/ugvc4090/ATPPNet-ori/atppnet/runs/ATPPNet_20241219_175636
 
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃         Test metric         ┃        DataLoader 0         ┃
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓                      
+┃         Test metric         ┃        DataLoader 0         ┃                                             
 ┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
 │   test/chamfer_distance_0   │     0.3734810948371887      │
 │   test/chamfer_distance_1   │     0.5312111973762512      │
@@ -91,3 +91,28 @@ test
 weekly plan-2024.12.24
 - 训练出带未来mos mask的网络。
 - 整合运动残差进入网络。
+
+
+
+
+
+┃         Test metric         ┃        DataLoader 0         ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│   test/chamfer_distance_0   │     0.4369220435619354      │
+│   test/chamfer_distance_1   │     0.6083724498748779      │
+│   test/chamfer_distance_2   │     0.7891181707382202      │
+│   test/chamfer_distance_3   │      0.994104266166687      │
+│   test/chamfer_distance_4   │     1.2346855401992798      │
+│ test/final_chamfer_distance │     1.2346855401992798      │
+│     test/inference_time     │     0.03643617779016495     │
+│       test/l1_loss_0        │      0.473813533782959      │
+│       test/l1_loss_1        │     0.5867612957954407      │
+│       test/l1_loss_2        │     0.7012622356414795      │
+│       test/l1_loss_3        │      0.80788654088974       │
+│       test/l1_loss_4        │     0.9087781310081482      │
+│       test/loss_mask        │     0.3085906207561493      │
+│    test/loss_range_view     │     0.6957002282142639      │
+│ test/mean_chamfer_distance  │     0.8126397132873535      │
+
+
+
