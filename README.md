@@ -1,7 +1,9 @@
 # fym1
 
-# Weekly Plan(12.19)
-1.完成motio
+# Weekly Plan(12.24)
+
+- 训练出带未来mos-mask的网络。
+- 整合运动残差进入网络。
 
 :blush:
 
@@ -88,9 +90,6 @@ test
 学习怎么用运动信息
 
 
-weekly plan-2024.12.24
-- 训练出带未来mos mask的网络。
-- 整合运动残差进入网络。
 
 
 
