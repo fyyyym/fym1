@@ -109,4 +109,27 @@ test 预训练模型
 │ test/mean_chamfer_distance  │     0.8126397132873535      │
 
 
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃         Test metric         ┃        DataLoader 0         ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│   test/chamfer_distance_0   │     0.2484961748123169      │
+│   test/chamfer_distance_1   │     0.29332196712493896     │
+│   test/chamfer_distance_2   │     0.35185593366622925     │
+│   test/chamfer_distance_3   │     0.42267975211143494     │
+│   test/chamfer_distance_4   │     0.5025941729545593      │
+│ test/final_chamfer_distance │     0.5025941729545593      │
+│     test/inference_time     │     0.24372559785842896     │
+│       test/l1_loss_0        │      0.509048581123352      │
+│       test/l1_loss_1        │     0.6291319727897644      │
+│       test/l1_loss_2        │     0.7486939430236816      │
+│       test/l1_loss_3        │     0.8597841262817383      │
+│       test/l1_loss_4        │     0.9659460186958313      │
+│       test/loss_mask        │     0.3137821555137634      │
+│        test/loss_mos        │     0.2827195351957619      │
+│    test/loss_range_view     │     0.7425211668014526      │
+│ test/mean_chamfer_distance  │     0.36378931999206543     │
+└─────────────────────────────┴─────────────────────────────┘
+
+
+
 
