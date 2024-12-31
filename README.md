@@ -3,7 +3,7 @@
 # Weekly Plan(12.19)
 1.完成motio
 
-
+:blush:
 
 训练了50epoche atppnet   /home/ugvc4090/ATPPNet-ori/atppnet/runs/ATPPNet_20241219_175636
 
