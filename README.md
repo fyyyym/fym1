@@ -1,6 +1,9 @@
 # fym1
 
-# Weekly Plan(12.24)
+# Weekly Plan(12.31)
+1.加个运动注意力
+2.KNN后处理
+
 
 - 训练出带未来mos-mask的网络。
 - 整合运动残差进入网络。
